@@ -24,7 +24,7 @@
     <main>
         <div class="row justify-content-center" id="main">
             <div class="col-lg-6">
-                <div class="card">
+                <div class="card" id="card">
                     <div class="card-body">
                         <h5 class="card-title">Envio SMS</h5>
                         <form method="POST" id="formulario">

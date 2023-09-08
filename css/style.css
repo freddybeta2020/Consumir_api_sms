@@ -64,3 +64,8 @@ body{
 .footer{
     margin-top: auto;
 }
+#numeroCelular,
+#mensaje,
+#card{
+    border-color: #50e9c8dc;
+}
